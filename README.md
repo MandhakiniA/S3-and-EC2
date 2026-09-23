@@ -59,16 +59,19 @@ Select your instance → Instance State → Terminate.
 # Output:
 
 ## Creating S3 Bucket:
-<img width="1919" height="876" alt="3" src="https://github.com/user-attachments/assets/74edaa73-5aee-4487-b051-7857f975ef67" />
+<img width="1529" height="673" alt="image" src="https://github.com/user-attachments/assets/e1268a15-e6de-419d-8293-568c8cbc496a" />
+
 
 
 ## Uploading Files in Bucket:
-<img width="1919" height="873" alt="4" src="https://github.com/user-attachments/assets/8c8abadd-ba1d-4978-97ed-9adbc5003195" />
+<img width="1000" height="461" alt="image" src="https://github.com/user-attachments/assets/36d678d6-231e-4edc-9b1e-80cd0e8ec40d" />
 
 
 ## Launching EC2 Instance:
-<img width="1919" height="866" alt="7" src="https://github.com/user-attachments/assets/7d1f7cd7-5d23-45c6-816f-dbdfe0669d8f" />
+<img width="1039" height="448" alt="image" src="https://github.com/user-attachments/assets/36e61d79-bbfb-4636-8f22-c3ee06d7c0d7" />
+
 
 
 ## Connecting Instance:
-<img width="1919" height="867" alt="6" src="https://github.com/user-attachments/assets/5f560e5e-8b4f-415c-9525-32576c5d5290" />
+<img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/5567e67e-8827-41b0-baa8-5389d2c2d939" />
+
